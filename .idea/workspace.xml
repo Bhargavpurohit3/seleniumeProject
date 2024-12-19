@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f62c63a9-e1df-48eb-9fec-71d881421d3c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/seleniumeProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/=allure_result/3a4ee058-f878-4e5a-938b-5bdcefadc6ac-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/=allure_result/6b3fa645-0419-42dc-94a6-15723f8b7de0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/6de7426d-4b10-4ec0-87a8-49024b410c5b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/8e9fc447-caff-44c1-b251-ed66d6dc7e9c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/caee92bb-a513-4282-844f-0fdee205f8c9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/e1670f20-174a-4b71-989e-2cd418a23a65-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/eac717fe-7e9d-4559-9118-eb8a88406ce7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/f51234ef-3843-4253-95fc-11787c19af30-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure_result/f72c478d-a3a4-4929-bd94-86bebf4b9704-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test_lab/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test_lab/test_lab1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test_lab/test_lab2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test_lab/test_lab3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test_lab/test_lab4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test_lab/test_lab5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test_lab/test_lab6_make_appnt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test_lab/test_lab7app_vwo.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2qCKFNHpB95G2deQmZWf88S7tYy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python tests.Python tests in test_lab1.py.executor": "Run",
+    "Python tests.Python tests in test_lab2.py.executor": "Run",
+    "Python tests.Python tests in test_lab3.py.executor": "Run",
+    "Python tests.Python tests in test_lab4.py.executor": "Run",
+    "Python tests.Python tests in test_lab6_make_appnt.py.executor": "Run",
+    "Python tests.Python tests in test_lab7app_vwo.py.executor": "Run",
+    "Python.sample.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\puroh\PycharmProjects\seleniumeProject\src\test_lab" />
+      <recent name="C:\Users\puroh\PycharmProjects\seleniumeProject" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-8336bb23522e-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.19072.16" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f62c63a9-e1df-48eb-9fec-71d881421d3c" name="Changes" comment="" />
+      <created>1734161013648</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734161013648</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
