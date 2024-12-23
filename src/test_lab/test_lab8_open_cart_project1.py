@@ -26,10 +26,15 @@ def test_register_opencart():
     password.send_keys("b@1122")
     conf_password.send_keys("b@1122")
 
+    time.sleep(5)
+    check_box = open_cart.find_element(By.XPATH,"//input[@name='agree']")
+    check_box.click()
+
+    '''
     checkbox = WebDriverWait(open_cart,1).until(EC.presence_of_element_located((By.XPATH,"//input[@name='agree']")))
     open_cart.execute_script("arguments[0].click();",checkbox)
-
-    #You have to learn about this because u dont know how this is ececuterd
+    You have to learn about this because u dont know how this is execute
+    '''
 
     time.sleep(1)
 
