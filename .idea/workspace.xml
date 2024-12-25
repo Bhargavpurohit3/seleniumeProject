@@ -4,32 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f62c63a9-e1df-48eb-9fec-71d881421d3c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/seleniumeProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/=allure_result/3a4ee058-f878-4e5a-938b-5bdcefadc6ac-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/=allure_result/6b3fa645-0419-42dc-94a6-15723f8b7de0-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/6de7426d-4b10-4ec0-87a8-49024b410c5b-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/8e9fc447-caff-44c1-b251-ed66d6dc7e9c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/caee92bb-a513-4282-844f-0fdee205f8c9-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/e1670f20-174a-4b71-989e-2cd418a23a65-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/eac717fe-7e9d-4559-9118-eb8a88406ce7-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/f51234ef-3843-4253-95fc-11787c19af30-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure_result/f72c478d-a3a4-4929-bd94-86bebf4b9704-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test_lab/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test_lab/test_lab1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test_lab/test_lab2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test_lab/test_lab3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test_lab/test_lab4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test_lab/test_lab5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test_lab/test_lab6_make_appnt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test_lab/test_lab7app_vwo.py" afterDir="false" />
+    <list default="true" id="f62c63a9-e1df-48eb-9fec-71d881421d3c" name="Changes" comment="yesss">
+      <change afterPath="$PROJECT_DIR$/allure_result/2b62c6ec-9509-4b25-8095-84a30e9425b8-result.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Bhargavpurohit3&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Bhargavpurohit3/seleniumeProject.git&quot;,
+    &quot;accountId&quot;: &quot;6f27741d-bef8-496f-90f3-60d7f010eab1&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -62,12 +51,16 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "DefaultHtmlFileTemplate": "HTML File",
+    "Python tests.Python tests in test_by_gpt.py.executor": "Run",
     "Python tests.Python tests in test_lab1.py.executor": "Run",
+    "Python tests.Python tests in test_lab10_ebay_price_css_selctor.py.executor": "Run",
     "Python tests.Python tests in test_lab2.py.executor": "Run",
     "Python tests.Python tests in test_lab3.py.executor": "Run",
     "Python tests.Python tests in test_lab4.py.executor": "Run",
     "Python tests.Python tests in test_lab6_make_appnt.py.executor": "Run",
     "Python tests.Python tests in test_lab7app_vwo.py.executor": "Run",
+    "Python tests.Python tests in test_lab8_open_cart_project1.py.executor": "Run",
+    "Python tests.Python tests in test_lab9_wait_app_vwo.py.executor": "Run",
     "Python.sample.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -95,9 +88,71 @@
       <option name="presentableId" value="Default" />
       <updated>1734161013648</updated>
     </task>
+    <task id="LOCAL-00001" summary="yes">
+      <option name="closed" value="true" />
+      <created>1734587098160</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734587098160</updated>
+    </task>
+    <task id="LOCAL-00002" summary="yes">
+      <option name="closed" value="true" />
+      <created>1734587508760</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734587508760</updated>
+    </task>
+    <task id="LOCAL-00003" summary="yes">
+      <option name="closed" value="true" />
+      <created>1734607219604</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734607219604</updated>
+    </task>
+    <task id="LOCAL-00004" summary="yessa">
+      <option name="closed" value="true" />
+      <created>1734934357964</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1734934357964</updated>
+    </task>
+    <task id="LOCAL-00005" summary="yess">
+      <option name="closed" value="true" />
+      <created>1734934427492</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1734934427492</updated>
+    </task>
+    <task id="LOCAL-00006" summary="yesss">
+      <option name="closed" value="true" />
+      <created>1734938119534</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1734938119534</updated>
+    </task>
+    <task id="LOCAL-00007" summary="yesss">
+      <option name="closed" value="true" />
+      <created>1735031964571</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1735031964571</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="yes" />
+    <MESSAGE value="yessa" />
+    <MESSAGE value="yess" />
+    <MESSAGE value="yesss" />
+    <option name="LAST_COMMIT_MESSAGE" value="yesss" />
   </component>
 </project>
