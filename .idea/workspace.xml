@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f62c63a9-e1df-48eb-9fec-71d881421d3c" name="Changes" comment="yesss">
-      <change afterPath="$PROJECT_DIR$/allure_result/2b62c6ec-9509-4b25-8095-84a30e9425b8-result.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test_lab/test_lab10_ebay_price_css_selctor.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test_lab/test_lab10_ebay_price_css_selctor.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,25 +46,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Python tests.Python tests in test_by_gpt.py.executor": "Run",
-    "Python tests.Python tests in test_lab1.py.executor": "Run",
-    "Python tests.Python tests in test_lab10_ebay_price_css_selctor.py.executor": "Run",
-    "Python tests.Python tests in test_lab2.py.executor": "Run",
-    "Python tests.Python tests in test_lab3.py.executor": "Run",
-    "Python tests.Python tests in test_lab4.py.executor": "Run",
-    "Python tests.Python tests in test_lab6_make_appnt.py.executor": "Run",
-    "Python tests.Python tests in test_lab7app_vwo.py.executor": "Run",
-    "Python tests.Python tests in test_lab8_open_cart_project1.py.executor": "Run",
-    "Python tests.Python tests in test_lab9_wait_app_vwo.py.executor": "Run",
-    "Python.sample.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python tests.Python tests in test_by_gpt.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab1.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab10_ebay_price_css_selctor.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab2.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab3.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab4.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab6_make_appnt.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab7app_vwo.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab8_open_cart_project1.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_lab9_wait_app_vwo.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sample.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\puroh\PycharmProjects\seleniumeProject\src\test_lab" />
@@ -144,7 +143,23 @@
       <option name="project" value="LOCAL" />
       <updated>1735031964571</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="yesss">
+      <option name="closed" value="true" />
+      <created>1735106992258</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1735106992258</updated>
+    </task>
+    <task id="LOCAL-00009" summary="yesss">
+      <option name="closed" value="true" />
+      <created>1735107380174</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1735107380174</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

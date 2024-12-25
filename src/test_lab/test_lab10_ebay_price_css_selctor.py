@@ -4,7 +4,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 import time
 from selenium.webdriver.common.by import By
-
+from openpyxl import Workbook
 
 
 
@@ -22,12 +22,21 @@ def test_ebay_macmini():
 
     item = driver.find_elements(By.CSS_SELECTOR, ".s-item")
 
+    workbook = Workbook()
+    sheet = workbook.active
+    sheet.title = "Ebay screapper"
+
+    sheet.append(["name", "price"])
+
     for i in item:
 
         name = i.find_element(By.CLASS_NAME, "s-item__title").text
         price = i.find_element(By.CLASS_NAME, "s-item__price").text
 
+        sheet.append([name,price])
         print(f"\nname is {name} , value prove is  .{price} ")
 
+    workbook.save("eBay mini data.xlsx")
+    print("all data added succsesfully")
 
     driver.quit()
