@@ -34,6 +34,8 @@ def test_register_opencart():
     checkbox = WebDriverWait(open_cart,1).until(EC.presence_of_element_located((By.XPATH,"//input[@name='agree']")))
     open_cart.execute_script("arguments[0].click();",checkbox)
     You have to learn about this because u dont know how this is execute
+    
+    task confirm bit complex but learned 
     '''
 
     time.sleep(1)
