@@ -6,6 +6,9 @@ import time
 from selenium.webdriver.common.by import By
 
 
+
+@allure.title("Ebay search and listing")
+@allure.description("search mac  ini in ebay")
 def test_ebay_macmini():
 
     driver = webdriver.Chrome()
