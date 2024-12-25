@@ -33,7 +33,8 @@ def test_ebay_macmini():
         name = i.find_element(By.CLASS_NAME, "s-item__title").text
         price = i.find_element(By.CLASS_NAME, "s-item__price").text
 
-        sheet.append([name,price])
+        sheet.append([name, price])
+
         print(f"\nname is {name} , value prove is  .{price} ")
 
     workbook.save("eBay mini data.xlsx")
