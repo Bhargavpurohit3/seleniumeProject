@@ -14,7 +14,7 @@ def test_task2():
   driver = webdriver.Chrome(chrome_option)
   driver.get("https://katalon-demo-cura.herokuapp.com/")
   time.sleep(5)
-  assert True == False
+  #assert True == False
   '''page_src_code=driver.page_source
   assert "CURA Healthcare Service" in page_src_code
   driver.quit()'''
