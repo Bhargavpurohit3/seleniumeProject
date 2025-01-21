@@ -9,7 +9,7 @@ from selenium.webdriver.support.ui import Select
 from selenium.webdriver.support import expected_conditions as EC
 
 
-def test_action_chain():
+def test_action_chain_keybord():
 
     driver = webdriver.Chrome()
     driver.get("https://www.google.com")
